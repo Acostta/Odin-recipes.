@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(149, 201, 149);
+}
+img{
+    
+    block-size: 100%;
+    display: center;
+    width: 350px;
+    height: 350px;
+    padding: 50px;
+    position: center;
+    border: solid 20px gold;
+    margin: 50px;
+}
+h1{
+
+    text-align: center;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,41 @@
+body{
+
+    background-color: rgb(85,98,113);
+}
+p{
+    color: yellow;
+    border: 2px solid rebeccapurple;
+    padding: .5em;
+}
+img{
+    
+    
+    height: 250px;
+    width: 250px;
+    border-radius: 50px;
+    
+  
+}
+
+h1{
+    color: yellow;
+    text-decoration: underline;
+}
+
+span{  
+
+     text-decoration: underline;
+     font-size: 20px;
+    color: yellow;
+}
+
+li{
+    border: 10 solid white;
+    height: 50px;
+    color: beige;
+    font-size: 20px;
+    
+    
+}
+
+

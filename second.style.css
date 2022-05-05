@@ -1,0 +1,33 @@
+body{
+
+    background-color: rgb(85, 98, 113);
+}
+img{
+
+    width: 250px;
+    border-radius: 50px;
+}
+
+h1{
+    color: white;
+    text-decoration: underline;
+}
+
+span{  
+
+     text-decoration: underline;
+     font-size: 20px;
+    color: yellow;
+}
+
+li{
+
+    color: beige;
+    font-size: 20px;
+    text-align-last: left;
+    
+    
+}
+h4{
+    color: yellow;
+}
